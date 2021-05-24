@@ -34,4 +34,29 @@
         android:text="Pindah Activity Dengan Data Parcelable"
         android:id="@+id/move_activity_data_parcelable"/>
 
+    <Button
+        android:background="@color/purple_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:layout_marginTop="10dp"
+        android:text="Telepon"
+        android:id="@+id/dial_number"/>
+
+    <Button
+        android:background="@color/purple_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:layout_marginTop="10dp"
+        android:text="Telepon"
+        android:id="@+id/move_for_result"/>
+
+    <TextView
+        android:id="@+id/hasil"
+        android:text="Hasil : "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
 </LinearLayout>
