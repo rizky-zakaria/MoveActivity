@@ -25,4 +25,13 @@
         android:text="Pindah Activity Dengan Data"
         android:id="@+id/move_activity_data"/>
 
+    <Button
+        android:background="@color/purple_700"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:layout_marginTop="10dp"
+        android:text="Pindah Activity Dengan Data Parcelable"
+        android:id="@+id/move_activity_data_parcelable"/>
+
 </LinearLayout>
